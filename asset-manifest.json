@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/klarjun.github.io/static/css/main.c30bc0e0.chunk.css",
+    "main.js": "/klarjun.github.io/static/js/main.a7c195bf.chunk.js",
+    "main.js.map": "/klarjun.github.io/static/js/main.a7c195bf.chunk.js.map",
+    "runtime-main.js": "/klarjun.github.io/static/js/runtime-main.916d853a.js",
+    "runtime-main.js.map": "/klarjun.github.io/static/js/runtime-main.916d853a.js.map",
+    "static/js/2.bc4b0462.chunk.js": "/klarjun.github.io/static/js/2.bc4b0462.chunk.js",
+    "static/js/2.bc4b0462.chunk.js.map": "/klarjun.github.io/static/js/2.bc4b0462.chunk.js.map",
+    "static/css/3.25727338.chunk.css": "/klarjun.github.io/static/css/3.25727338.chunk.css",
+    "static/js/3.700adead.chunk.js": "/klarjun.github.io/static/js/3.700adead.chunk.js",
+    "static/js/3.700adead.chunk.js.map": "/klarjun.github.io/static/js/3.700adead.chunk.js.map",
+    "static/css/4.a8329f31.chunk.css": "/klarjun.github.io/static/css/4.a8329f31.chunk.css",
+    "static/js/4.6f00fa93.chunk.js": "/klarjun.github.io/static/js/4.6f00fa93.chunk.js",
+    "static/js/4.6f00fa93.chunk.js.map": "/klarjun.github.io/static/js/4.6f00fa93.chunk.js.map",
+    "index.html": "/klarjun.github.io/index.html",
+    "precache-manifest.6f63497228224b83ecb89625b54d42ad.js": "/klarjun.github.io/precache-manifest.6f63497228224b83ecb89625b54d42ad.js",
+    "service-worker.js": "/klarjun.github.io/service-worker.js",
+    "static/css/3.25727338.chunk.css.map": "/klarjun.github.io/static/css/3.25727338.chunk.css.map",
+    "static/css/4.a8329f31.chunk.css.map": "/klarjun.github.io/static/css/4.a8329f31.chunk.css.map",
+    "static/css/main.c30bc0e0.chunk.css.map": "/klarjun.github.io/static/css/main.c30bc0e0.chunk.css.map",
+    "static/js/2.bc4b0462.chunk.js.LICENSE.txt": "/klarjun.github.io/static/js/2.bc4b0462.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/klarjun.github.io/static/media/Montserrat-Regular.847627bf.ttf",
+    "static/media/JavaScript.png": "/klarjun.github.io/static/media/JavaScript.0fa24081.png",
+    "static/media/React.png": "/klarjun.github.io/static/media/React.e7829c23.png",
+    "static/media/contactMailDark.svg": "/klarjun.github.io/static/media/contactMailDark.51cf7192.svg",
+    "static/media/dataStructure.png": "/klarjun.github.io/static/media/dataStructure.f7b35e27.png",
+    "static/media/developerActivity.svg": "/klarjun.github.io/static/media/developerActivity.59389695.svg",
+    "static/media/freelance.png": "/klarjun.github.io/static/media/freelance.e1c82a59.png",
+    "static/media/manOnTable.svg": "/klarjun.github.io/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/klarjun.github.io/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/klarjun.github.io/static/media/talksCardBack.13780cdd.svg",
+    "static/media/uah.png": "/klarjun.github.io/static/media/uah.542481d7.png",
+    "static/media/vtu.png": "/klarjun.github.io/static/media/vtu.21341203.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.916d853a.js",
+    "static/js/2.bc4b0462.chunk.js",
+    "static/css/main.c30bc0e0.chunk.css",
+    "static/js/main.a7c195bf.chunk.js"
+  ]
+}
